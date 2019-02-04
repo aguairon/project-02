@@ -1,6 +1,6 @@
 import React from 'react'
 import axios from 'axios'
-const apikey = process.env.apiToken
+const apikey = process.env.APITOKEN
 import debounce from 'lodash/debounce'
 
 import SearchResults from './SearchResults'
