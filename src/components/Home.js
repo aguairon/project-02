@@ -22,12 +22,12 @@ class Home extends React.Component {
   }
 
   componentDidMount(){
-    axios.get(`http://www.omdbapi.com/?s=star&apikey=${apikey}`)
+    axios.get(`https://www.omdbapi.com/?s=star&apikey=${apikey}`)
       .then(res => this.setState({results: res.data.Search}))
   }
 
   apiCall() {
-    axios.get(`http://www.omdbapi.com/?s=${this.state.search}&type=movie&apikey=${apikey}`)
+    axios.get(`https://www.omdbapi.com/?s=${this.state.search}&type=movie&apikey=${apikey}`)
       .then(res => {
         if(res.data.Response === 'True') this.setState({results: res.data.Search, error: '', searched: this.state.search})
         else this.setState({results: [], error: res.data.Error, searched: this.state.search})
