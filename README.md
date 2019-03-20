@@ -18,5 +18,7 @@ In the homepage there is a selection of movies with the word Star in their title
 <img width="1440" alt="Screenshot 2019-03-20 at 15 24 53" src="https://user-images.githubusercontent.com/9445433/54696786-5b0d1280-4b24-11e9-9dae-caffebbf81f1.png">
 
 
-Once the user finds a movie they are interested in they can view the movie details on the movie show page.
+Once the user finds a movie they are interested in they can view the movie details on the movie show page. In this page they will have not only the metascore for the film, actors and plot for the selected movie bust also the runtime, language and genre.
+
+<img width="1437" alt="Screenshot 2019-03-20 at 15 31 16" src="https://user-images.githubusercontent.com/9445433/54697305-3a918800-4b25-11e9-9aa4-9ede3de402a1.png">
 
