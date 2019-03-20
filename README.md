@@ -27,7 +27,7 @@ Once the user finds a movie they wanted they can view the movie details. In this
 
 <img width="1437" alt="Screenshot 2019-03-20 at 15 31 16" src="https://user-images.githubusercontent.com/9445433/54697305-3a918800-4b25-11e9-9aa4-9ede3de402a1.png">
 
-The user can also find cinemas near them on the Cinema Near Me tab where there is a button to find the user's location. Once the location is found the map will update to show the location and it will show markers with available cinemas.
+The user can also find cinemas near them on the Cinema Near Me tab where there is a button to find the user's location. This will update the map and it will show markers with available cinemas.
 
 <img width="1440" alt="Screenshot 2019-03-20 at 15 36 14" src="https://user-images.githubusercontent.com/9445433/54697702-ec30b900-4b25-11e9-9237-8c090da3ff67.png">
 
