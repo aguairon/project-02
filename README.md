@@ -1,4 +1,5 @@
 # General Assembly Project 2 : React Hackathon
+## Goal - to build a website using a public API. A group project: Collaborators: Siddant Gurung, Begona Fernandez
 ### Timeframe
 2 days. Collaborative project with 2 people.
 ## Technologies used
