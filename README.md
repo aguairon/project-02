@@ -32,7 +32,14 @@ The user can also find cinemas near them on the Cinema Near Me tab where there i
 <img width="1440" alt="Screenshot 2019-03-20 at 15 36 14" src="https://user-images.githubusercontent.com/9445433/54697702-ec30b900-4b25-11e9-9237-8c090da3ff67.png">
 
 ## Process
-The first step was to get the public API we selected for the main functionality of the website to return the information we needed. Once this was achieved we used the Bulma frameword to display it and to provide a search bar. The first version had a button that would only request result upon submission. In this part of the project we did pair coding.
+The first step was to get the public API we selected for the main functionality of the website, OMDb API, to return the information we needed. Once this was achieved we used the Bulma frameword to display both the list of films and the details of a particular film. We also made a search bar, this first version had a button that would only request results upon submission. This part of the project was done pair coding.
 
-After the first draft of the site was done we divided the project into two segments. I would would concentrate on styling and on making the search bar fetch results without having to submit. Siddant would concentrate on making making the map show cinemas.
+After the first draft of the site was done we divided the project into two parts. I would concentrate on the styling and on making the search bar fetch results without having to submit and Siddant would concentrate on making the map show cinemas.
+
+### Wins
+
+For me the greatest win was making the search bar fetch information without having to submit. Even though simple it made the site easier to use.
+
+### Future features
+We would have loves to show recommendations based on the movie that was selected but unfortunately we run out of time.
 
