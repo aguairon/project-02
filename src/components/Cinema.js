@@ -9,8 +9,6 @@ class Cinema extends React.Component{
       </section>
     )
   }
-
-
 }
 
 export default Cinema
