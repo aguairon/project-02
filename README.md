@@ -23,7 +23,7 @@ Or with a message indicating that no movie was found with that word.
 
 <img width="1439" alt="Screenshot 2019-03-20 at 15 40 39" src="https://user-images.githubusercontent.com/9445433/54698194-cce65b80-4b26-11e9-8a7c-1cebe118910f.png">
 
-Once the user finds a movie they wanted they can view the movie details. In this page they will have not only the metascore for the film, actors and plot for the selected movie but also the runtime, language and genre.
+Once the user finds a movie they wanted they can view the movie details. In this page they will have not only the movies's metascore, actors and plot but also the runtime, language and genre.
 
 <img width="1437" alt="Screenshot 2019-03-20 at 15 31 16" src="https://user-images.githubusercontent.com/9445433/54697305-3a918800-4b25-11e9-9aa4-9ede3de402a1.png">
 
