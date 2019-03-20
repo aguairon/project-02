@@ -25,7 +25,6 @@ class CinemasNear extends React.Component{
   }
 
   getData(lat,lng){
-    console.log('latituer: '+lat,'long: '+lng)
     const headers = {
       headers: {
         'client': 'EDUC_4',

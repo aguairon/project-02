@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 class Cinema extends React.Component{
 
   render(){
