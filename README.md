@@ -42,5 +42,5 @@ After the first draft of the site was done we divided the project into two parts
 For me the greatest win was making the search bar fetch information without having to submit. Even though simple it made the site easier to use.
 
 ### Future features
-We would have loves to show recommendations based on the movie that was selected but unfortunately we run out of time.
+We would have loved to show recommendations based on the movie that was selected but unfortunately we run out of time.
 
